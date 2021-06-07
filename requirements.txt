@@ -1,0 +1,6 @@
+cd /Obfuscation
+[Depending upon your requirement]
+#if you need a wheel file then below command
+python setup.py bdist_wheel
+#if you need a egg file then below command
+python setup.py bdist_egg 
